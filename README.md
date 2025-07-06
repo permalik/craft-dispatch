@@ -1,2 +1,2 @@
-# yyyoink-dispatch
-service:Compression, Binary, and LLM Toolkit Schedule and Dispatch
+# craft-dispatch
+service:LLM Schedule and Dispatch
